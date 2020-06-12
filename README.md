@@ -20,7 +20,6 @@ If you are using Debug version of TealeafSHA2. i.e. pod TealeafSHA2Debug used by
 
 ## Used By
 
-* [DigitalAnalytics](https://github.com/ibm-watson-cxa/DigitalAnalytics) - Acoustic, L.P. Digital Analytics SDK
 * [Tealeaf](https://github.com/ibm-watson-cxa/IBMTealeaf) - Acoustic, L.P. Experience Analytics SDK
 
 
