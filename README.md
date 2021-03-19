@@ -20,10 +20,10 @@ If you are using Debug version of TealeafSHA2. i.e. pod TealeafSHA2Debug used by
 
 ## Used By
 
-* [Tealeaf](https://github.com/ibm-watson-cxa/IBMTealeaf) - Acoustic, L.P. Experience Analytics SDK
+* [Tealeaf](https://github.com/acoustic-analytics/IBMTealeaf) - Acoustic, L.P. Experience Analytics SDK
 
 
 ## License
 
-License files can be read [here](https://github.com/ibm-watson-cxa/TealeafSHA2-iOS/tree/master/Licenses)
+License files can be read [here](https://github.com/acoustic-analytics/TealeafSHA2-iOS/tree/master/Licenses)
 
