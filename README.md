@@ -15,12 +15,12 @@ You do not need to use TealeafSHA2 directly. Tealeaf and DigitalAnalytics depend
 
 ## Troubleshooting
 
-If you are using Debug version of TealeafSHA2. i.e. pod TealeafSHA2Debug used by pods IBMTealeafDebug and DigitalAnalyticsDebug, then you may edit your project's scheme in XCode and add environmental variable EODebug and set its value to 1. This will make EOCore to start writing debug logs to your xcode console window. If and when you want to report issues, the DigitalAnalytics and Tealeaf support engineers will ask you for these logs.
+If you are using Debug version of TealeafSHA2. i.e. pod TealeafSHA2Debug used by pods TealeafDebug and DigitalAnalyticsDebug, then you may edit your project's scheme in XCode and add environmental variable EODebug and set its value to 1. This will make EOCore to start writing debug logs to your xcode console window. If and when you want to report issues, the DigitalAnalytics and Tealeaf support engineers will ask you for these logs.
 
 
 ## Used By
 
-* [Tealeaf](https://github.com/acoustic-analytics/IBMTealeaf) - Acoustic, L.P. Experience Analytics SDK
+* [Tealeaf](https://github.com/acoustic-analytics/Tealeaf) - Acoustic, L.P. Experience Analytics SDK
 
 
 ## License
