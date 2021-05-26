@@ -1,6 +1,0 @@
-framework module TealeafSHA2Hash {
-  umbrella header "TealeafSHA2Hash.h"
-
-  export *
-  module * { export * }
-}
